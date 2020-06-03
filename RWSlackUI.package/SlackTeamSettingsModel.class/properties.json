@@ -1,0 +1,22 @@
+{
+	"category" : "RWSlackUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teamNameCtrl",
+		"userNameCtrl",
+		"tokenCtrl",
+		"saveBtn",
+		"teamNameLabel",
+		"usernameLabel",
+		"tokenLabel",
+		"currentSlackTeam",
+		"saveCompleteBlock" ],
+	"name" : "SlackTeamSettingsModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

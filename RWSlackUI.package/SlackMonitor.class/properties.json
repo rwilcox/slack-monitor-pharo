@@ -1,0 +1,27 @@
+{
+	"category" : "RWSlackUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RyanWilcox 12/4/2016 09:33",
+	"instvars" : [
+		"connection",
+		"userName",
+		"token",
+		"domain",
+		"channels",
+		"connectButton",
+		"websocketReciever",
+		"users",
+		"messageTable",
+		"res",
+		"messageHandler",
+		"private_channels",
+		"settingsButton",
+		"teamPopup" ],
+	"name" : "SlackMonitor",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

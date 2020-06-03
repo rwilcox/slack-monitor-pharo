@@ -1,0 +1,14 @@
+{
+	"category" : "RWSlackUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"slackMonitorWindow" ],
+	"name" : "SlackMonitorWriter",
+	"pools" : [
+		 ],
+	"super" : "PSlackRtmHandler",
+	"type" : "normal" }

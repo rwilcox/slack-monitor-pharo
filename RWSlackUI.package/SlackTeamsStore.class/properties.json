@@ -1,0 +1,14 @@
+{
+	"category" : "RWSlackUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Store" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlackTeamsStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

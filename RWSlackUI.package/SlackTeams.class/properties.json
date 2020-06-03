@@ -1,0 +1,16 @@
+{
+	"category" : "RWSlackUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"token",
+		"teamName" ],
+	"name" : "SlackTeams",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
